@@ -40,4 +40,26 @@ b- Injection SQL (Structured Query Language)
 c-Cheveaux de troies
 d-Vers
 e-Tracker
-f-Trapdoor
+
+-----------------
+Les droits dans postgreSQL
+
+Select:permet de faire des Select sur les tables 
+Insert:permet de faire des insertions dans les tables
+Delete:permet de supprimer des lignes de tables 
+Truncate: permet de faire un truncate 
+Références : permet d'utiliser les clés étrangères 
+Alter: permet de modifier la structure des tables 
+Create:permet la création de nouvelles tables 
+Trigger: permet de créer des triggers
+Connect: permet de se connecter à la base de données
+Usage: permet d'utiliser les langages procéduraux pour créer des fonctions 
+Update : permet de mettre à jour une table
+Execute: permet d'appeler une fonction ou une procédure : c'est le seul droit qui s'applique aux fonctions et aux procédures
+Temporary: permet de créer des tables temporaires dans la base de données
+
+
+
+
+Le commande Grant permet d'accorder des droits ou privilèges 
+
