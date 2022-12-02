@@ -59,7 +59,9 @@ Execute: permet d'appeler une fonction ou une procédure : c'est le seul droit q
 Temporary: permet de créer des tables temporaires dans la base de données
 
 
-
-
 Le commande Grant permet d'accorder des droits ou privilèges 
 
+----------------------
+Version de la norme sql: SQL:2016 (2016)
+Auteur:	Donald D. Chamberlin et Raymond F. Boyce
+Développeur:IBM
